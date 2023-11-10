@@ -1,3 +1,3 @@
 <template>
-    <div>This is our Home page</div>
+    <div class="container mx-auto">This is our Home page</div>
 </template>
